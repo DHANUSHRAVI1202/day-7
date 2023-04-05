@@ -1,0 +1,31 @@
+.book-list-container {
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .book-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .book-item {
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #e8e8e8;
+    border-radius: 5px;
+  }
+  
+  .book-title {
+    margin-top: 0;
+  }
+  
+  .book-author, .book-year,.book-id {
+    margin-bottom: 5px;
+  }
+  .book-item:hover{
+     background-color: white;
+  }
+  
